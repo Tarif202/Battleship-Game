@@ -7,9 +7,13 @@ This repository contains a series of Java utility methods developed as part of a
 The project provides methods that allow for:
 
 •	Board Validation: Ensuring that the board is correctly formatted and contains only valid characters (e.g., '.', 'S', '*').
+
 •	Ship Tracking: Counting, checking, and verifying the status of various ship types on the board (undamaged, damaged, or sunk).
+
 •	Attack Handling: Processing attack coordinates and returning results such as "hit", "miss", or "repeat hit" based on game rules.
+
 •	Dynamic Ship Counting: Counting ships based on type, damage level, and other parameters.
+
 Each method is rigorously tested and validated to handle edge cases, including incorrect board size, invalid characters, and unexpected input parameters.
 
 **Key Features:**
